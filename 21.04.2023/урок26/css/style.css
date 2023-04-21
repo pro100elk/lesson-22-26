@@ -1,0 +1,26 @@
+.block{
+  width: 50vw;
+  height: 50vh;
+  position: relative;
+  top: 25%;
+  left: 25%;
+  background-color: rgba(172, 255, 47, 0.575);
+  border: 5px solid #333;
+}
+
+
+.block{
+  transition-duration: 3s, 1s, 1s;
+  transition-property:border, background-color, border-radius ;
+  transition-delay: 2s, 5s, 6s;
+}
+
+.block{
+  transition:border 3s 2s, background-color 1s 5s
+  border-radius 1s 6s;
+}
+.block:hover{
+  border: 5px solid red;
+  background-color: orchid;
+  border-radius: 5%;
+}

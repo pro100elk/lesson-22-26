@@ -1,0 +1,14 @@
+div{
+  background-color: blue;
+  height: 20vh;
+  width: 20vw;
+  position: absolute;
+  top: 40vh;
+  left: 40vw;
+
+}
+
+.block{
+background-color: red;
+transform: skew(-30deg) translate(10vw,0);
+}

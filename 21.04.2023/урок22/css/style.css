@@ -1,0 +1,12 @@
+
+p{
+  padding: 25px 25px 0;
+  max-width: 50vw;
+  height: 100px;
+  overflow: auto;
+}
+
+
+.autograph{
+  visibility: hidden;
+}

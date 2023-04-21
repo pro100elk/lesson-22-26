@@ -1,0 +1,24 @@
+.autograph {
+  visibility: hidden;
+}
+
+.block1 {
+  margin: 5vw;
+  height: 50vw;
+  width: 90vw;
+  background: url(/4855-kgb_sssr.jpg) 50% center /cover no-repeat, radial-gradient(#00ffff, #ff2e2e);
+  border-radius: 15%;
+}
+
+.block2 {
+  padding: 10px;
+  margin: 5vw;
+  height: 50vw;
+  width: 90vw;
+  background-image: url(/34058-sport_snoubord.jpg), linear-gradient(to left, orange, green);
+  background-position: center;
+  background-attachment: scroll;
+  background-size: 85vw;
+  background-repeat: no-repeat;
+  border-radius: 15vw;
+}
